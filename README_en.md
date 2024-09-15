@@ -1,5 +1,6 @@
+[русская вер.](README.md)
 # Choosing the best classiffier for crop recommendation
-Final project for ITMO University Machine Learning course
+Final project for ITMO University [Machine Learning](https://github.com/ooggaboog/itmo-dc-ml) course
 
 ### Description:  
 I used a dataset for making decisions about sowing a particular crop depending on the environmental conditions, built several models for classification
