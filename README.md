@@ -1,6 +1,5 @@
-# Choosing the best classiffier for crop recommendation
-Final project for ITMO University Machine Learning course
+# Выбор лучшего классификатора для рекомендации круп
+Итоговый проект для курса Машинного обучения Университет ИТМО
 
-### Description:  
-I used a dataset for making decisions about sowing a particular crop depending on the environmental conditions, built several models for classification
-(**k-NN**, **Decision Tree**, **Random Forest**), then compared their results and chose the best classificator.
+### Описание:  
+Я использовала датасет для принятия решений о посадке той или иной сельскохозяйственной культуры в зависимости от условий окружающей среды, построила несколько моделей для классификации (**k-NN**, **Decision Tree**, **Random Forest**), а затем сравнила их результаты и выбрала лучший классификатор.
